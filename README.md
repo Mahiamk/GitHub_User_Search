@@ -1,5 +1,5 @@
 # GitHub Search App
-
+![GitHub Search App Landing Page](https://github-search-app-ochre.vercel.app/images/landing-page-screenshot.png)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) that allows users to search for GitHub profiles and view their repositories and contribution statistics.
 
 ## Getting Started
