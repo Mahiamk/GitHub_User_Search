@@ -6,7 +6,7 @@ import ReposList from '../components/ReposList';
 import ContributionStats from '../components/ContributionStats';
 import { MonaOctocat, Copilot, Ducky, Star } from '../components/Characters';
 import { 
-  fetchGithubUser, 
+  fetchGithubUser,
   fetchUserRepositories, 
   fetchGithubStats,
   GithubUser,
